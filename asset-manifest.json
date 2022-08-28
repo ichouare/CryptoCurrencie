@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CryptoCurrencie/static/css/main.bd3c7e9e.css",
+    "main.js": "/CryptoCurrencie/static/js/main.f7d1d896.js",
+    "static/media/cryptocurrency.png": "/CryptoCurrencie/static/media/cryptocurrency.1548aced3f0605895bac.png",
+    "index.html": "/CryptoCurrencie/index.html",
+    "main.bd3c7e9e.css.map": "/CryptoCurrencie/static/css/main.bd3c7e9e.css.map",
+    "main.f7d1d896.js.map": "/CryptoCurrencie/static/js/main.f7d1d896.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd3c7e9e.css",
+    "static/js/main.f7d1d896.js"
+  ]
+}
